@@ -68,5 +68,11 @@ keysetting\size=27
 qttwp\address=
 ```
 
+##### Custom spell check words
+
+Copy `en_US.ign` to `/Applications/texstudio.app/Contents/Resources`
+
+Put `Spell\Language=en_US` to '.ini' file
+
 ##### Other preferences
 As for other preferences, you can copy them from the old `.ini` to the new one in the same manner.
