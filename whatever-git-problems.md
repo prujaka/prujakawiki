@@ -1,4 +1,6 @@
-# Whatever git/github problems I've ever encountered
+### All Github stuff
+
+#### Misc
 
 If ever created a remote origin with a bad name:
 `git remote remove origin`
